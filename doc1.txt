@@ -1,2 +1,4 @@
 This is first document
-Trying to edit 
+Trying to edit
+
+Editing in a new branch 
